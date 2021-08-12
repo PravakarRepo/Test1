@@ -1,0 +1,9 @@
+# build.properties
+# Specify the login credentials for the desired Salesforce organization
+sf1.username = pbehera@dxc.com
+sf1.password = Prava@0076lN44mz7COjoRdpKDIUZ4QvD
+sf1.serverurl = https://login.salesforce.com
+
+sf2.username = pravakar.behera@yokogawa.com.devops1
+sf2.password = Pravakar@007
+sf2.serverurl = https://test.salesforce.com
